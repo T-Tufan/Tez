@@ -1,0 +1,52 @@
+{
+   "icecekler": [
+    {
+        "barkod": 5449000016645,
+        "isim": "Coco Cola 2.5 Litre",
+        "foto-path": "https://github.com/T-Tufan/TezJson/blob/master/TezIcecekFoto/cococola2.5.jpg",
+        "market":"Calfour-Sa",
+        "stok" : "120",
+        "fiyat" : 7.5,
+        "açıklama": "Soğuk içiniz"
+    },
+    {
+        "barkod": 5449000016669,
+        "isim": "Fanta 2.5 Litre",
+        "foto-path": "https://github.com/T-Tufan/TezJson/blob/master/TezIcecekFoto/fanta2.5.jpg",
+        "market":"Calfour-Sa",
+        "stok" : "107",
+        "fiyat" : 7,
+        "açıklama": "Soğuk içiniz"
+    },
+    {
+        "barkod": 90162602,
+        "isim": "Red Bull Enerji İçeceği",
+        "foto-path": "https://github.com/T-Tufan/TezJson/blob/master/TezIcecekFoto/redbull330.jpg",
+        "market":"Calfour-Sa",
+        "stok" : "85",
+        "fiyat" : 5.5,
+        "açıklama": "Enerji verir"
+    },
+    
+    {
+        
+        "barkod": 8690565100530,
+        "isim": "Pınar Süt Tam Yağlı",
+        "foto-path": "https://github.com/T-Tufan/TezJson/blob/master/TezIcecekFoto/pınarsüt1.jpg",
+        "market" : "Calfour-Sa",
+        "stok" : "28",
+        "fiyat" : 5.95,
+        "acıklama": "Bardakta izi kalan süt"
+    }
+  ],
+  "KisiselBakım" :
+    {
+        "barkod": 4005900155962,
+        "isim": "Nivea Men Fresh Active Deodorant",
+        "foto-path": "https://github.com/T-Tufan/TezJson/blob/master/KisiselBakımFoto/niveamen.png",
+        "market":"Calfour-Sa",
+        "stok" : "18",
+        "fiyat" :10.30,
+        "açıklama": "Erkekler için"
+    }
+}
