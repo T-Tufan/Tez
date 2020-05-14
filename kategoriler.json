@@ -3,32 +3,36 @@
       {
         "barkod": "5449000016645",
         "isim": "Coco Cola 2.5 Litre",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/cococola2.5.jpg"
-        
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/cococola2.5.jpg",
+        "kategori":"icecekler"
     },
     {
         "barkod": "5449000016669",
         "isim": "Fanta 2.5 Litre",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/fanta2.5.jpg"
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/fanta2.5.jpg",
+        "kategori":"icecekler"
         
     },
     {
         "barkod": "90162602",
         "isim": "Red Bull Enerji İçeceği 170 ml",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg"
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
+        "kategori":"icecekler"
         
     },
     {
         "barkod": "8690632062730",
-        "isim": "Nescafe 3'i 1 arada bol Kahve 13 GR",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg"
+        "isim": "Nescafe 3'i 1 Arada Kahve 13 GR",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
+        "kategori":"icecekler"
         
     },
     {
         
         "barkod": "8690565100530",
         "isim": "Pınar Süt Tam Yağlı 1 L",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg"
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
+        "kategori":"icecekler"
         
     }
   ],
@@ -36,17 +40,20 @@
       {
         "barkod": "5449000016645",
         "isim": "Beypiliç 1 Kg Tavuk Kanat",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/beypilic1kgkanat.jpg"
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/beypilic1kgkanat.jpg",
+        "kategori":"Et ve Süt Ürünleri"
       },
       {
         "barkod": "8690527102473",
         "isim": "Pınar Köfte Cızbız 395 Gr",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/pinarkofte.jpg"
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/pinarkofte.jpg",
+        "kategori":"Et ve Süt Ürünleri"
        },
       {
         "barkod": "8680181068338",
         "isim": "Torku Taze Kaşar Peyniri 650 G",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/torkukasarpeynir.jpg"
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/torkukasarpeynir.jpg",
+        "kategori":"Et ve Süt Ürünleri"
         }
 
   ],
@@ -54,7 +61,8 @@
     {
       "barkod": "8000700000005 ",
       "isim": "DOVE CREAM BAR 100Gr",
-      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/dovesabun.jpeg"
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/dovesabun.jpeg",
+      "kategori":"KisiselBakim"
     }
   ]
 }
