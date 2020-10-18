@@ -1,4 +1,6 @@
 {
+  "tüm-ürünler" : [
+     {
     "icecekler" :  [
       {
         "barkod": "5449000016645",
@@ -7,7 +9,6 @@
         "market":"Calfour-Sa",
         "stok" : "120",
         "fiyat" : 7.5,
-        "kategori":"icecekler",
         "aciklama": "Soğuk içiniz"
     },
     {
@@ -17,7 +18,6 @@
         "market":"A101",
         "stok" : "85",
         "fiyat" : 6.75,
-        "kategori":"icecekler",
         "aciklama": "Soğuk içiniz"
     },
     {
@@ -27,7 +27,6 @@
         "market":"Mopaş",
         "stok" : "42",
         "fiyat" : 7.0,
-        "kategori":"icecekler",
         "aciklama": "Soğuk içiniz"
     },
     {
@@ -37,7 +36,6 @@
         "market":"Calfour-Sa",
         "stok" : "107",
         "fiyat" : 7.00,
-        "kategori":"icecekler",
         "aciklama": "Soğuk içiniz"
     },
     {
@@ -47,7 +45,6 @@
         "market":"Migros",
         "stok" : "74",
         "fiyat" : 7.00,
-        "kategori":"icecekler",
         "aciklama": "Soğuk içiniz"
     },
     {
@@ -57,79 +54,71 @@
         "market":"A101",
         "stok" : "65",
         "fiyat" : 6.75,
-        "kategori":"icecekler",
         "aciklama": "Soğuk içiniz"
     },
     {
         "barkod": "90162602",
         "isim": "Red Bull Enerji İçeceği",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
         "market":"Calfour-Sa",
         "stok" : "85",
         "fiyat" : 5.50,
-        "kategori":"icecekler",
         "aciklama": "Enerji verir"
     },
     {
         "barkod": "90162602",
         "isim": "Red Bull Enerji İçeceği",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
         "market":"Migros",
         "stok" : "80",
         "fiyat" : 5.00,
-        "kategori":"icecekler",
         "aciklama": "Enerji verir"
     },
     {
         "barkod": "8690632062730",
-        "isim": "Nescafe 3in1 Kahve 13 Gr",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
+        "isim": "NESCAFE 3IN1 BOL KAHVE 13 GR",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
         "market":"Calfour-Sa",
         "stok" : "230",
         "fiyat" :0.75,
-        "kategori":"icecekler",
         "aciklama": "İçecekler bölümünde günlük olarak tüketebileceğiniz içeceklerden biri de kahvelerdir. Kahve denince akla gelen ilk marka olan Nescafe’nin üçü bir arada seçeneğiyle günlük kahve ihtiyacınızı karşılayabilirsiniz. Nescafe 3'ü 1 Arada Sütlü Köpüklü  kahve seçeneği adından da anlaşılacağı gibi kahve, süt ve şekerden oluşuyor. "
     },
     {
         "barkod": "8690632062730",
-        "isim": "Nescafe 3in1 Kahve 13 Gr",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
+        "isim": "NESCAFE 3IN1 BOL KAHVE 13 GR",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
         "market":"Migros",
         "stok" : "180",
         "fiyat" :0.90,
-        "kategori":"icecekler",
         "aciklama": "İçecekler bölümünde günlük olarak tüketebileceğiniz içeceklerden biri de kahvelerdir. Kahve denince akla gelen ilk marka olan Nescafe’nin üçü bir arada seçeneğiyle günlük kahve ihtiyacınızı karşılayabilirsiniz. Nescafe 3'ü 1 Arada Sütlü Köpüklü  kahve seçeneği adından da anlaşılacağı gibi kahve, süt ve şekerden oluşuyor. "
     },
     {
         "barkod": "8690632062730",
-        "isim": "Nescafe 3in1 Kahve 13 Gr",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
+        "isim": "NESCAFE 3IN1 BOL KAHVE 13 GR",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
         "market":"Şok",
         "stok" : "450",
         "fiyat" :0.70,
-        "kategori":"icecekler",
         "aciklama": "İçecekler bölümünde günlük olarak tüketebileceğiniz içeceklerden biri de kahvelerdir. Kahve denince akla gelen ilk marka olan Nescafe’nin üçü bir arada seçeneğiyle günlük kahve ihtiyacınızı karşılayabilirsiniz. Nescafe 3'ü 1 Arada Sütlü Köpüklü  kahve seçeneği adından da anlaşılacağı gibi kahve, süt ve şekerden oluşuyor. "
     },
     {
         
         "barkod": "8690565100530",
         "isim": "Pınar Süt Tam Yağlı",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
         "market" : "Calfour-Sa",
         "stok" : "28",
         "fiyat" : 5.95,
-        "kategori":"icecekler",
         "aciklama": "Bardakta izi kalan süt"
     },
     {
         
         "barkod": "8690565100530",
         "isim": "Pınar Süt Tam Yağlı",
-        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
         "market" : "Migros",
         "stok" : "40",
         "fiyat" : 5.30,
-        "kategori":"icecekler",
         "aciklama": "Bardakta izi kalan süt"
     }
   ],
@@ -141,7 +130,6 @@
             "market" : "Migros",
             "stok" : "24",
             "fiyat" : 21.95,
-            "kategori":"Et ve Süt Ürünleri",
             "aciklama": "Beypi Büyük Tabaklı Izgara Kanat kg. piliç kanadın ucu alındıktan sonra ,eklem yerinden ikiye bölerek elde edilir. Piliç etleri steril ortamlarda, veteriner hekimleri ve gıda mühendislerinin kontrolünde, hijyenik olarak üretilir. Tabakta muhafaza edilip satışa sunulan Beypi Kanat, ızgara yapımına uygun olarak kesilmiştir."
       },
       {
@@ -151,7 +139,6 @@
         "market" : "Calfour-Sa",
         "stok" : "80",
         "fiyat" : 23.49,
-        "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Beypi Büyük Tabaklı Izgara Kanat kg. piliç kanadın ucu alındıktan sonra ,eklem yerinden ikiye bölerek elde edilir. Piliç etleri steril ortamlarda, veteriner hekimleri ve gıda mühendislerinin kontrolünde, hijyenik olarak üretilir. Tabakta muhafaza edilip satışa sunulan Beypi Kanat, ızgara yapımına uygun olarak kesilmiştir."
       },
       {
@@ -161,7 +148,6 @@
         "market" : "A101",
         "stok" : "80",
         "fiyat" : 19.99,
-        "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Beypi Büyük Tabaklı Izgara Kanat kg. piliç kanadın ucu alındıktan sonra ,eklem yerinden ikiye bölerek elde edilir. Piliç etleri steril ortamlarda, veteriner hekimleri ve gıda mühendislerinin kontrolünde, hijyenik olarak üretilir. Tabakta muhafaza edilip satışa sunulan Beypi Kanat, ızgara yapımına uygun olarak kesilmiştir."
       },
       {
@@ -171,7 +157,6 @@
         "market" : "Migros",
         "stok" : "35",
         "fiyat" : 35.95,
-        "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Nesilden nesile yıllardır aktarılan, evlerimizde en sık yapılan, hepimizin alışkın olduğu ev köftesi, Cızbız Köfte’dir. Cızbız Köfte'nin az baharatlı, her damak tadına uygun köfte lezzeti sofralarımızda sürekli yer alır."
       },
       {
@@ -181,7 +166,6 @@
         "market" : "Carrefour-Sa",
         "stok" : "80",
         "fiyat" : 34.95,
-        "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Nesilden nesile yıllardır aktarılan, evlerimizde en sık yapılan, hepimizin alışkın olduğu ev köftesi, Cızbız Köfte’dir. Cızbız Köfte'nin az baharatlı, her damak tadına uygun köfte lezzeti sofralarımızda sürekli yer alır."
       },
       {
@@ -191,7 +175,6 @@
         "market" : "Carrefour-Sa",
         "stok" : "45",
         "fiyat" : 39.95,
-        "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Torku Taze Kaşar Peyniri, kahvaltıların vazgeçilmez lezzetlerinden birini Torku kalitesiyle sofralarınıza getirir. Tostlarda, ev yapımı pizzalarda, makarna soslarında ya da omletlerde eriterek, kahvaltıda ve salatalarda dilimli ya da rende olarak tüketebileceğiniz kaşar peyniri ile yiyeceklerinize lezzet katın."
       },
       {
@@ -201,7 +184,6 @@
         "market" : "Migros",
         "stok" : "45",
         "fiyat" : 37.45,
-        "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Torku Taze Kaşar Peyniri, kahvaltıların vazgeçilmez lezzetlerinden birini Torku kalitesiyle sofralarınıza getirir. Tostlarda, ev yapımı pizzalarda, makarna soslarında ya da omletlerde eriterek, kahvaltıda ve salatalarda dilimli ya da rende olarak tüketebileceğiniz kaşar peyniri ile yiyeceklerinize lezzet katın."
       },
       {
@@ -211,7 +193,6 @@
         "market" : "A101",
         "stok" : "45",
         "fiyat" : 34.95,
-        "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Torku Taze Kaşar Peyniri, kahvaltıların vazgeçilmez lezzetlerinden birini Torku kalitesiyle sofralarınıza getirir. Tostlarda, ev yapımı pizzalarda, makarna soslarında ya da omletlerde eriterek, kahvaltıda ve salatalarda dilimli ya da rende olarak tüketebileceğiniz kaşar peyniri ile yiyeceklerinize lezzet katın."
       }
   ],
@@ -223,7 +204,6 @@
         "market" : "Migros",
         "stok" : "45",
         "fiyat" : 5.50,
-        "kategori":"KisiselBakim",
         "aciklama": "Formülündeki nemlendiriciler ile de cildin nem dengesini korur, bu sayede yumuşaklık kazandırır. Sabah yapılan temizlik güne canlı başlamanızı sağlayacaktır."
       },
       {
@@ -233,7 +213,6 @@
         "market" : "www.hepsiburada.com",
         "stok" : "49",
         "fiyat" : 5.25,
-        "kategori":"KisiselBakim",
         "aciklama": "Formülündeki nemlendiriciler ile de cildin nem dengesini korur, bu sayede yumuşaklık kazandırır. Sabah yapılan temizlik güne canlı başlamanızı sağlayacaktır."
       },
       {
@@ -243,8 +222,9 @@
         "market" : "www.n11.com",
         "stok" : "38",
         "fiyat" : 5.10,
-        "kategori":"KisiselBakim",
         "aciklama": "Formülündeki nemlendiriciler ile de cildin nem dengesini korur, bu sayede yumuşaklık kazandırır. Sabah yapılan temizlik güne canlı başlamanızı sağlayacaktır."
       }
+  ]
+ }
   ]
 }
