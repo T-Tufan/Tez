@@ -1,7 +1,18 @@
 {
-
-"Marketler" : [
-    {
+    "Marketler" : [
+        {
+            "isim" :"Calfour-Sa",
+            "foto_path" :"https://raw.githubusercontent.com/T-Tufan/Tez/master/Market_Logo/Carrefour-Sa.jpg"
+        },
+        {
+          "isim" :"Migros",
+          "foto_path" :"https://raw.githubusercontent.com/T-Tufan/Tez/master/Market_Logo/Migros.png"
+        },
+        {
+        "isim" :"A101",
+        "foto_path" :"https://raw.githubusercontent.com/T-Tufan/Tez/master/Market_Logo/A101.jpg"
+        }
+    ],
     "Calfour-Sa" : [
         {
             "isim" :"Calfour-Sa",
@@ -38,9 +49,7 @@
           "aciklama" :"Esenler, No: 2/3 D: 8-9-10-11-12, Cengiz Dilek Sk. No:13, 34899 Pendik/İstanbul",
           "foto_path" :"https://raw.githubusercontent.com/T-Tufan/Tez/master/Market_Logo/Carrefour-Sa.jpg"
       }
-        ]
-    },
-    {
+    ],
     "Migros" : [
       {
           "isim" :"Migros",
@@ -71,7 +80,5 @@
         "foto_path" :"https://raw.githubusercontent.com/T-Tufan/Tez/master/Market_Logo/Migros.png"
     }
   ]
-}
-]
+  }
   
-}
