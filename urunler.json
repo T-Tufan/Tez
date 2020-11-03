@@ -1,5 +1,5 @@
 {
-    "icecekler" :  [
+    "İcecekler" :  [
       {
         "barkod": "5449000016645",
         "isim": "Coco Cola 2.5 Litre",
@@ -213,6 +213,48 @@
         "aciklama": "Torku Taze Kaşar Peyniri, kahvaltıların vazgeçilmez lezzetlerinden birini Torku kalitesiyle sofralarınıza getirir. Tostlarda, ev yapımı pizzalarda, makarna soslarında ya da omletlerde eriterek, kahvaltıda ve salatalarda dilimli ya da rende olarak tüketebileceğiniz kaşar peyniri ile yiyeceklerinize lezzet katın."
       }
   ],
+  "Teknoloji Ürünleri":[
+    {
+      "barkod": "8680096078903",
+      "isim": "Rampage SMX-R44 Makrolu 6400dpi RGB Mouse",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/Rampage%20Smx%20R44.png",
+      "market" : "https://www.vatanbilgisayar.com/rampage-smx-r44-makrolu-siyah-6400dpi-rgb-ledli-gaming-oyuncu-mouse.html",
+      "stok" : "100",
+      "fiyat" : 128,
+      "kategori":"Teknoloji Ürünleri",
+      "aciklama": "Rampage SMX-R44 Makrolu 6400dpi RGB Ledli Gaming Oyuncu Mouse ; Güçlü 6.400 DPI 6651 sensör kullanmaktadır. Özel dizaynı sayesinde kullanım kolaylığı ve mükemmel tutuş sağlar. Özel tasarımı SMX-R44'ü diğer oyuncu mouselarından farklı kılar. Kendine özgü tasarımı sayesinde kişisel kullanımınız için rahatlıkla ayarlayın! RGB led ışıklandırmaları sizi kendine hayran bırakacak."
+    },
+    {
+      "barkod": "8680096078903",
+      "isim": "Rampage SMX-R44 Makrolu 6400dpi RGB Mouse",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/Rampage%20Smx%20R44.png",
+      "market" : "https://www.hepsiburada.com/rampage-smx-r44-makrolu-6400dpi-rgb-ledli-oyuncu-mouse-siyah-pm-HB00000OO71K",
+      "stok" : "100",
+      "fiyat" : 124.95,
+      "kategori":"Teknoloji Ürünleri",
+      "aciklama": "Rampage SMX-R44 Makrolu 6400dpi RGB Ledli Gaming Oyuncu Mouse ; Güçlü 6.400 DPI 6651 sensör kullanmaktadır. Özel dizaynı sayesinde kullanım kolaylığı ve mükemmel tutuş sağlar. Özel tasarımı SMX-R44'ü diğer oyuncu mouselarından farklı kılar. Kendine özgü tasarımı sayesinde kişisel kullanımınız için rahatlıkla ayarlayın! RGB led ışıklandırmaları sizi kendine hayran bırakacak."
+    },
+    {
+      "barkod": "6925281939976",
+      "isim": "Jbl Tune 500Bt Bluetooth Kulaklık",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/JblT500.jpg",
+      "market" : "https://www.teknosa.com/jbl-tune-500bt-bluetooth-kulaklik-ct-oe-mavi-p-110262791",
+      "stok": "120",
+      "fiyat" : 490,
+      "kategori":"Teknoloji Ürünleri",
+      "aciklama": "JBL Tune 500BT Kulak Üstü Bluetooth Kulaklığın yumuşak süngerleri ile saatlerce dinleme keyfi yaşayın. Katlanabilir kulaklık yapısı ile daha az yer kaplar. Uzun ömürlü bataryası sayesinde 16 saate kadar kesintisiz çalışma imkânı sunar. 5 dakikalık şarj ile 1 saate yakın kullanım"
+     },
+     {
+      "barkod": "6925281939976",
+      "isim": "Jbl Tune 500Bt Bluetooth Kulaklık",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/JblT500.jpg",
+      "market" : "https://www.mediamarkt.com.tr/tr/product/_jbl-tune-500bt-kablosuz-kulak-%C3%BCst%C3%BC-kulakl%C4%B1k-mavi-1186367.html",
+      "stok": "80",
+      "fiyat" : 270,
+      "kategori":"Teknoloji Ürünleri",
+      "aciklama": "JBL Tune 500BT Kulak Üstü Bluetooth Kulaklığın yumuşak süngerleri ile saatlerce dinleme keyfi yaşayın. Katlanabilir kulaklık yapısı ile daha az yer kaplar. Uzun ömürlü bataryası sayesinde 16 saate kadar kesintisiz çalışma imkânı sunar. 5 dakikalık şarj ile 1 saate yakın kullanım"
+     }
+],
   "KisiselBakim":[
       {
         "barkod": "8000700000005 ",
