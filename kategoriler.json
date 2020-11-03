@@ -57,6 +57,20 @@
         }
 
   ],
+  "Teknoloji Ürünleri" : [
+    {
+      "barkod": "8680096078903",
+      "isim": "Rampage SMX-R44 Makrolu Siyah 6400dpi RGB Ledli Gaming Oyuncu Mouse",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/Rampage%20Smx%20R44.png",
+      "kategori":"Teknoloji Ürünleri"
+    },
+    {
+      "barkod": "6925281939976",
+      "isim": "Jbl Tune 500Bt Bluetooth Kulaklık",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/JblT500.jpg",
+      "kategori":"Teknoloji Ürünleri"
+     }
+],
   "KisiselBakim":[
     {
       "barkod": "8000700000005 ",
