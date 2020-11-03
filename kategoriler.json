@@ -4,27 +4,27 @@
         "barkod": "5449000016645",
         "isim": "Coco Cola 2.5 Litre",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/cococola2.5.jpg",
-        "kategori":"icecekler"
+        "kategori":"İcecekler"
     },
     {
         "barkod": "5449000016669",
         "isim": "Fanta 2.5 Litre",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/fanta2.5.jpg",
-        "kategori":"icecekler"
+        "kategori":"İcecekler"
         
     },
     {
         "barkod": "90162602",
         "isim": "Red Bull Enerji İçeceği 170 ml",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
-        "kategori":"icecekler"
+        "kategori":"İcecekler"
         
     },
     {
         "barkod": "8690632062730",
         "isim": "Nescafe 3'i 1 Arada Kahve 13 GR",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
-        "kategori":"icecekler"
+        "kategori":"İcecekler"
         
     },
     {
@@ -32,7 +32,7 @@
         "barkod": "8690565100530",
         "isim": "Pınar Süt Tam Yağlı 1 L",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
-        "kategori":"icecekler"
+        "kategori":"İcecekler"
         
     }
   ],
