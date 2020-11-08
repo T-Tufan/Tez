@@ -54,8 +54,13 @@
         "isim": "Torku Taze Kaşar Peyniri 650 G",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/torkukasarpeynir.jpg",
         "kategori":"Et ve Süt Ürünleri"
-        }
-
+        },
+      {
+        "barkod": "8690637845307",
+        "isim": "Calve",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/CalveKetcap.jpg",
+        "kategori":"Et ve Süt Ürünleri"
+      }
   ],
   "Teknoloji Ürünleri" : [
     {
