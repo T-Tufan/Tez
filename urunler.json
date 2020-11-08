@@ -211,6 +211,26 @@
         "fiyat" : 34.95,
         "kategori":"Et ve Süt Ürünleri",
         "aciklama": "Torku Taze Kaşar Peyniri, kahvaltıların vazgeçilmez lezzetlerinden birini Torku kalitesiyle sofralarınıza getirir. Tostlarda, ev yapımı pizzalarda, makarna soslarında ya da omletlerde eriterek, kahvaltıda ve salatalarda dilimli ya da rende olarak tüketebileceğiniz kaşar peyniri ile yiyeceklerinize lezzet katın."
+      },
+      {
+        "barkod": "8690637845307",
+        "isim": "Calve",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/beypilic1kgkanat.jpg",
+        "market" : "A101",
+        "stok" : "200",
+        "fiyat" : 8.99,
+        "kategori":"Et ve Süt Ürünleri",
+        "aciklama": "Calve Ketçap,kızartmalık lezzetlerin,et ve şarküteri yemeklerinin vazgeçilmez soslarından biri."
+      },
+      {
+        "barkod": "8690637845307",
+        "isim": "Calve",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/beypilic1kgkanat.jpg",
+        "market" : "Calfour-Sa",
+        "stok" : "150",
+        "fiyat" : 9.99,
+        "kategori":"Et ve Süt Ürünleri",
+        "aciklama": "Calve Ketçap,kızartmalık lezzetlerin,et ve şarküteri yemeklerinin vazgeçilmez soslarından biri."
       }
   ],
   "Teknoloji Ürünleri":[
