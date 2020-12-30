@@ -306,5 +306,95 @@
         "kategori":"KisiselBakim",
         "aciklama": "Formülündeki nemlendiriciler ile de cildin nem dengesini korur, bu sayede yumuşaklık kazandırır. Sabah yapılan temizlik güne canlı başlamanızı sağlayacaktır."
       }
+      ,{
+        "barkod": "7702018094493",
+        "isim": "Gilette Tıraş Köpüğü Hassas 300 Ml",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/gilette-tras-kopugu.jpeg",
+        "market" : "Migros",
+        "stok" : "50",
+        "fiyat" : 9.95,
+        "kategori":"KisiselBakim",
+        "aciklama": "Aloe Özleri ile tüm günü tazelenmiş ve canlı hissetmenizi sağlar.Nazik formülü ile cildinizi en iyi şekilde nemlendirir."
+      },
+      {
+        "barkod": "7702018094493",
+        "isim": "Gilette Tıraş Köpüğü Hassas 300 Ml",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/gilette-tras-kopugu.jpeg",
+        "market" : "A101",
+        "stok" : "40",
+        "fiyat" : 8.95,
+        "kategori":"KisiselBakim",
+        "aciklama": "Aloe Özleri ile tüm günü tazelenmiş ve canlı hissetmenizi sağlar.Nazik formülü ile cildinizi en iyi şekilde nemlendirir."
+      },
+      {
+        "barkod": "8690637959295",
+        "isim": "Rinso Sıvı 3 lt Bakım Kusursuz Siyah",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/rinso_siyah.jpg",
+        "market" : "A101",
+        "stok" : "80",
+        "fiyat" : 25.90,
+        "kategori":"KisiselBakim",
+        "aciklama": "Siyah ve koyu renge sahip çamaşırlarda güçlü bir temizlik ve etkili renk koruması için her yıkama için güvenle kullanabileceğiniz Rinso Kusursuz Siyah Sıvı Deterjan 3 lt siyahlarınızın uzun süre siyah kalmasını sağlar."
+      },
+      {
+        "barkod": "8690637959295",
+        "isim": "Rinso Sıvı 3 lt Bakım Kusursuz Siyah",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/rinso_siyah.jpg",
+        "market" : "Migros",
+        "stok" : "75",
+        "fiyat" : 23.90,
+        "kategori":"KisiselBakim",
+        "aciklama": "Siyah ve koyu renge sahip çamaşırlarda güçlü bir temizlik ve etkili renk koruması için her yıkama için güvenle kullanabileceğiniz Rinso Kusursuz Siyah Sıvı Deterjan 3 lt siyahlarınızın uzun süre siyah kalmasını sağlar."
+      },
+      {
+        "barkod": "8690637959295",
+        "isim": "Rinso Sıvı 3 lt Bakım Kusursuz Siyah",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/rinso_siyah.jpg",
+        "market" : "Calfour-Sa",
+        "stok" : "45",
+        "fiyat" : 27.90,
+        "kategori":"KisiselBakim",
+        "aciklama": "Siyah ve koyu renge sahip çamaşırlarda güçlü bir temizlik ve etkili renk koruması için her yıkama için güvenle kullanabileceğiniz Rinso Kusursuz Siyah Sıvı Deterjan 3 lt siyahlarınızın uzun süre siyah kalmasını sağlar."
+      },
+      {
+        "barkod": "8718951178779",
+        "isim": "Colgate Ağız Bakım Suyu Üçlü Etki 500 ml",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/colgate_agiz_calkalama_suyu.jpg",
+        "market" : "Calfour-Sa",
+        "stok" : "30",
+        "fiyat" : 17.90,
+        "kategori":"KisiselBakim",
+        "aciklama": "Colgate Ağız Bakım Suyu Üçlü Etki 500 Ml.Ferah Nefes.Çürüklere Karşı Koruma.Mükemmel Ferahlatıcı Tat.ALKOLSÜZ."
+      },
+      {
+        "barkod": "8718951178779",
+        "isim": "Colgate Ağız Bakım Suyu Üçlü Etki 500 ml",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/colgate_agiz_calkalama_suyu.jpg",
+        "market" : "Migros",
+        "stok" : "35",
+        "fiyat" : 18.90,
+        "kategori":"KisiselBakim",
+        "aciklama": "Colgate Ağız Bakım Suyu Üçlü Etki 500 Ml.Ferah Nefes.Çürüklere Karşı Koruma.Mükemmel Ferahlatıcı Tat.ALKOLSÜZ."
+      },
+      {
+        "barkod": "8690637712302",
+        "isim": "Yumoş Extra Hanımeli 1440 ml",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/yumos.jpg",
+        "market" : "Migros",
+        "stok" : "120",
+        "fiyat" : 19.99,
+        "kategori":"KisiselBakim",
+        "aciklama": "Yaz gecelerinin vazgeçilmezi hanımeli çiçeğinin harika kokusunu kalıcı olarak giysilerinize taşır."
+      },
+      {
+        "barkod": "8690637712302",
+        "isim": "Yumoş Extra Hanımeli 1440 ml",
+        "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/yumos.jpg",
+        "market" : "A101",
+        "stok" : "150",
+        "fiyat" : 22.99,
+        "kategori":"KisiselBakim",
+        "aciklama": "Yaz gecelerinin vazgeçilmezi hanımeli çiçeğinin harika kokusunu kalıcı olarak giysilerinize taşır."
+      }
   ]
 }

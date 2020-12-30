@@ -82,6 +82,30 @@
       "isim": "DOVE CREAM BAR 100Gr",
       "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/dovesabun.jpeg",
       "kategori":"KisiselBakim"
+    },
+    {
+      "barkod": "7702018094493",
+      "isim": "Gilette Tıraş Köpüğü Hassas 300 Ml",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/gilette-tras-kopugu.jpeg",
+      "kategori":"KisiselBakim"
+    },
+    {
+      "barkod": "8690637959295",
+      "isim": "Rinso Sıvı 3 lt Bakım Kusursuz Siyah",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/rinso_siyah.jpg",
+      "kategori":"KisiselBakim"
+    },
+    {
+      "barkod": "8718951178779",
+      "isim": "Colgate Ağız Bakım Suyu Üçlü Etki 500 ml",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/colgate_agiz_calkalama_suyu.jpg",
+      "kategori":"KisiselBakim"
+    },
+    {
+      "barkod": "8690637712302",
+      "isim": "Yumoş Extra Hanımeli 1440 ml",
+      "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/yumos.jpg",
+      "kategori":"KisiselBakim"
     }
   ]
 }
