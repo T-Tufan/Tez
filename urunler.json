@@ -214,7 +214,8 @@
       },
       {
         "barkod": "8690637908798",
-        "isim": "CalveKetcap",
+        "isim": "Calve Ketcap",
+        "model-ismi" : "CalveKetcap",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/CalveKetcap.jpg",
         "market" : "A101",
         "stok" : "200",
@@ -225,6 +226,7 @@
       {
         "barkod": "8690637908798",
         "isim": "CalveKetcap",
+        "model-ismi" : "CalveKetcap",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/CalveKetcap.jpg",
         "market" : "Calfour-Sa",
         "stok" : "150",
@@ -309,6 +311,7 @@
       ,{
         "barkod": "7702018094493",
         "isim": "Gilette Tıraş Köpüğü Hassas 300 Ml",
+        "model-ismi" : "GiletteTrasKopugu",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/gilette-tras-kopugu.jpeg",
         "market" : "Migros",
         "stok" : "50",
@@ -319,6 +322,7 @@
       {
         "barkod": "7702018094493",
         "isim": "Gilette Tıraş Köpüğü Hassas 300 Ml",
+        "model-ismi" : "GiletteTrasKopugu",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/gilette-tras-kopugu.jpeg",
         "market" : "A101",
         "stok" : "40",
@@ -329,6 +333,7 @@
       {
         "barkod": "8690637959295",
         "isim": "Rinso Sıvı 3 lt Bakım Kusursuz Siyah",
+        "model-ismi" : "Rinso",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/rinso_siyah.jpg",
         "market" : "A101",
         "stok" : "80",
@@ -339,6 +344,7 @@
       {
         "barkod": "8690637959295",
         "isim": "Rinso Sıvı 3 lt Bakım Kusursuz Siyah",
+        "model-ismi" : "Rinso",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/rinso_siyah.jpg",
         "market" : "Migros",
         "stok" : "75",
@@ -349,6 +355,7 @@
       {
         "barkod": "8690637959295",
         "isim": "Rinso Sıvı 3 lt Bakım Kusursuz Siyah",
+        "model-ismi" : "Rinso",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/rinso_siyah.jpg",
         "market" : "Calfour-Sa",
         "stok" : "45",
@@ -359,6 +366,7 @@
       {
         "barkod": "8718951178779",
         "isim": "Colgate Ağız Bakım Suyu Üçlü Etki 500 ml",
+        "model-ismi" : "Colgate",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/colgate_agiz_calkalama_suyu.jpg",
         "market" : "Calfour-Sa",
         "stok" : "30",
@@ -369,6 +377,7 @@
       {
         "barkod": "8718951178779",
         "isim": "Colgate Ağız Bakım Suyu Üçlü Etki 500 ml",
+        "model-ismi" : "Colgate",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/colgate_agiz_calkalama_suyu.jpg",
         "market" : "Migros",
         "stok" : "35",
@@ -379,6 +388,7 @@
       {
         "barkod": "8690637712302",
         "isim": "Yumoş Extra Hanımeli 1440 ml",
+        "model-ismi" : "Yumos",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/yumos.jpg",
         "market" : "Migros",
         "stok" : "120",
@@ -389,6 +399,7 @@
       {
         "barkod": "8690637712302",
         "isim": "Yumoş Extra Hanımeli 1440 ml",
+        "model-ismi" : "Yumos",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/yumos.jpg",
         "market" : "A101",
         "stok" : "150",
