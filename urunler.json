@@ -3,6 +3,7 @@
       {
         "barkod": "5449000016645",
         "isim": "Coco Cola 2.5 Litre",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/cococola2.5.jpg",
         "market":"Calfour-Sa",
         "stok" : "120",
@@ -13,6 +14,7 @@
     {
         "barkod": "5449000016645",
         "isim": "Coco Cola 2.5 Litre",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/cococola2.5.jpg",
         "market":"A101",
         "stok" : "85",
@@ -23,6 +25,7 @@
     {
         "barkod": "5449000016645",
         "isim": "Coco Cola 2.5 Litre",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/cococola2.5.jpg",
         "market":"Mopaş",
         "stok" : "42",
@@ -32,7 +35,8 @@
     },
     {
         "barkod": "5449000016669",
-        "isim": "FantaGazliIcecek",
+        "isim": "Fanta Gazli Icecek 2.5 Lt",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/fanta2.5.jpg",
         "market":"Calfour-Sa",
         "stok" : "107",
@@ -42,7 +46,8 @@
     },
     {
         "barkod": "5449000016669",
-        "isim": "FantaGazliIcecek",
+        "isim": "Fanta Gazli Icecek 2.5 Lt",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/fanta2.5.jpg",
         "market":"Migros",
         "stok" : "74",
@@ -52,7 +57,8 @@
     },
     {
         "barkod": "5449000016669",
-        "isim": "FantaGazliIcecek",
+        "isim": "Fanta Gazli Icecek 2.5 Lt",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/fanta2.5.jpg",
         "market":"A101",
         "stok" : "65",
@@ -63,6 +69,7 @@
     {
         "barkod": "90162602",
         "isim": "Red Bull Enerji İçeceği",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
         "market":"Calfour-Sa",
         "stok" : "85",
@@ -73,6 +80,7 @@
     {
         "barkod": "90162602",
         "isim": "Red Bull Enerji İçeceği",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/redbull330.jpg",
         "market":"Migros",
         "stok" : "80",
@@ -83,6 +91,7 @@
     {
         "barkod": "8690632062730",
         "isim": "Nescafe 3in1 Kahve 13 Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
         "market":"Calfour-Sa",
         "stok" : "230",
@@ -93,6 +102,7 @@
     {
         "barkod": "8690632062730",
         "isim": "Nescafe 3in1 Kahve 13 Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
         "market":"Migros",
         "stok" : "180",
@@ -103,6 +113,7 @@
     {
         "barkod": "8690632062730",
         "isim": "Nescafe 3in1 Kahve 13 Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/nescafesutlu.jpeg",
         "market":"Şok",
         "stok" : "450",
@@ -113,6 +124,7 @@
     {
         "barkod": "8690565100530",
         "isim": "Pınar Süt Tam Yağlı",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
         "market" : "Calfour-Sa",
         "stok" : "28",
@@ -123,6 +135,7 @@
     {
         "barkod": "8690565100530",
         "isim": "Pınar Süt Tam Yağlı",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/IcecekFoto/pinarsut1.jpg",
         "market" : "Migros",
         "stok" : "40",
@@ -135,6 +148,7 @@
       {
             "barkod": "5449000016645",
             "isim": "Beypiliç 1 Kg Tavuk Kanat",
+            "model-ismi" : "",
             "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/beypilic1kgkanat.jpg",
             "market" : "Migros",
             "stok" : "24",
@@ -145,6 +159,7 @@
       {
         "barkod": "5449000016645",
         "isim": "Beypiliç 1 Kg Tavuk Kanat",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/beypilic1kgkanat.jpg",
         "market" : "Calfour-Sa",
         "stok" : "80",
@@ -155,6 +170,7 @@
       {
         "barkod": "5449000016645",
         "isim": "Beypiliç 1 Kg Tavuk Kanat",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/beypilic1kgkanat.jpg",
         "market" : "A101",
         "stok" : "80",
@@ -165,6 +181,7 @@
       {
         "barkod": "8690527102473",
         "isim": "Pınar Köfte Cızbız 395 Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/pinarkofte.jpg",
         "market" : "Migros",
         "stok" : "35",
@@ -175,6 +192,7 @@
       {
         "barkod": "8690527102473",
         "isim": "Pınar Köfte Cızbız 395 Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/pinarkofte.jpg",
         "market" : "Carrefour-Sa",
         "stok" : "80",
@@ -185,6 +203,7 @@
       {
         "barkod": "8680181068338",
         "isim": "Torku Taze Kaşar Peyniri 650 G",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/torkukasarpeynir.jpg",
         "market" : "Carrefour-Sa",
         "stok" : "45",
@@ -195,6 +214,7 @@
       {
         "barkod": "8680181068338",
         "isim": "Torku Taze Kaşar Peyniri 650 G",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/torkukasarpeynir.jpg",
         "market" : "Migros",
         "stok" : "45",
@@ -205,6 +225,7 @@
       {
         "barkod": "8680181068338",
         "isim": "Torku Taze Kaşar Peyniri 650 G",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Et%20ve%20S%C3%BCtFoto/torkukasarpeynir.jpg",
         "market" : "A101",
         "stok" : "45",
@@ -239,6 +260,7 @@
     {
       "barkod": "8680096078903",
       "isim": "Rampage SMX-R44 Makrolu 6400dpi RGB Mouse",
+      "model-ismi" : "",
       "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/Rampage%20Smx%20R44.png",
       "market" : "https://www.vatanbilgisayar.com/rampage-smx-r44-makrolu-siyah-6400dpi-rgb-ledli-gaming-oyuncu-mouse.html",
       "stok" : "100",
@@ -249,6 +271,7 @@
     {
       "barkod": "8680096078903",
       "isim": "Rampage SMX-R44 Makrolu 6400dpi RGB Mouse",
+      "model-ismi" : "",
       "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/Rampage%20Smx%20R44.png",
       "market" : "https://www.hepsiburada.com/rampage-smx-r44-makrolu-6400dpi-rgb-ledli-oyuncu-mouse-siyah-pm-HB00000OO71K",
       "stok" : "100",
@@ -259,6 +282,7 @@
     {
       "barkod": "6925281939976",
       "isim": "Jbl Tune 500Bt Bluetooth Kulaklık",
+      "model-ismi" : "",
       "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/JblT500.jpg",
       "market" : "https://www.teknosa.com/jbl-tune-500bt-bluetooth-kulaklik-ct-oe-mavi-p-110262791",
       "stok": "120",
@@ -269,6 +293,7 @@
      {
       "barkod": "6925281939976",
       "isim": "Jbl Tune 500Bt Bluetooth Kulaklık",
+      "model-ismi" : "",
       "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/Teknolojik%C3%9Cr%C3%BCnFoto/JblT500.jpg",
       "market" : "https://www.mediamarkt.com.tr/tr/product/_jbl-tune-500bt-kablosuz-kulak-%C3%BCst%C3%BC-kulakl%C4%B1k-mavi-1186367.html",
       "stok": "80",
@@ -281,6 +306,7 @@
       {
         "barkod": "8000700000005 ",
         "isim": "DOVE CREAM BAR 100Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/dovesabun.jpeg",
         "market" : "Migros",
         "stok" : "45",
@@ -291,6 +317,7 @@
       {
         "barkod": "8000700000005 ",
         "isim": "DOVE CREAM BAR 100Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/dovesabun.jpeg",
         "market" : "www.hepsiburada.com",
         "stok" : "49",
@@ -301,6 +328,7 @@
       {
         "barkod": "8000700000005 ",
         "isim": "DOVE CREAM BAR 100Gr",
+        "model-ismi" : "",
         "foto-path": "https://raw.githubusercontent.com/T-Tufan/Tez/master/KisiselBak%C4%B1mFoto/dovesabun.jpeg",
         "market" : "www.n11.com",
         "stok" : "38",
